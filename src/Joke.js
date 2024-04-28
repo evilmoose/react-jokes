@@ -1,8 +1,6 @@
 import React from "react";
 import "./Joke.css";
 
-/** A single joke, along with vote up/down buttons. */
-
 
 const Joke = ({ id, vote, votes, text }) => {
 
